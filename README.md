@@ -1,0 +1,2 @@
+# StarResonanceSimpleDamageDistribution
+Damage distribution for Star Resonance 星恒共鸣分时段增量伤害图
